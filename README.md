@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 #💻Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![html5](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![javascript](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=ce8037)
 
