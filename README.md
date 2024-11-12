@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&height=200&section=header&text=%20chaewon%20&fontSize=70&fontColor=4d8095)
 
+
+#💻Skills
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
