@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&height=200&section=header&text=%20chaewon%20&fontSize=70&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&height=200&section=header&text=%20chaewon%20&fontSize=70&fontColor=f000000)
 
