@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 
 #💻Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
